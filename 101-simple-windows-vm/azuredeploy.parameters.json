@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "djhstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "w10emclabs_djh@outlook.com"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "123elite"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "djh172496"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
